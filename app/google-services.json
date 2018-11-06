@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "570643750098",
+    "firebase_url": "https://vidufirebase-20cd4.firebaseio.com",
+    "project_id": "vidufirebase-20cd4",
+    "storage_bucket": "vidufirebase-20cd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570643750098:android:6cab9811d6216de8",
+        "android_client_info": {
+          "package_name": "com.bay.androidoriginubutu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570643750098-oibn1t0p7otsb855qdkvlajnnjj9skg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bay.androidoriginubutu",
+            "certificate_hash": "f1f13a4bdbc34814daff2fdab51197b5855ca9d6"
+          }
+        },
+        {
+          "client_id": "570643750098-3i5tkstcdt4k4on3921rdpmufgept0mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOR2b4kk2OTQIonqgJ0NgwUk2mrcmd2PM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570643750098-3i5tkstcdt4k4on3921rdpmufgept0mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570643750098:android:929156816622260b",
+        "android_client_info": {
+          "package_name": "com.bay.laptrinhdidongfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570643750098-imlera52lkt57biuvldu6itee22cnk6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bay.laptrinhdidongfirebase",
+            "certificate_hash": "e5e996f727dbac63a1ab9375d29172de0ce172cd"
+          }
+        },
+        {
+          "client_id": "570643750098-3i5tkstcdt4k4on3921rdpmufgept0mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOR2b4kk2OTQIonqgJ0NgwUk2mrcmd2PM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570643750098-3i5tkstcdt4k4on3921rdpmufgept0mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570643750098:android:d7156758fee4e4be",
+        "android_client_info": {
+          "package_name": "com.bay.vidufirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570643750098-sjk55afjnqb5ed5uc99hef7ndm6sh9fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bay.vidufirebase",
+            "certificate_hash": "e5e996f727dbac63a1ab9375d29172de0ce172cd"
+          }
+        },
+        {
+          "client_id": "570643750098-3i5tkstcdt4k4on3921rdpmufgept0mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOR2b4kk2OTQIonqgJ0NgwUk2mrcmd2PM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570643750098-3i5tkstcdt4k4on3921rdpmufgept0mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570643750098:android:72281e59e78b0d96",
+        "android_client_info": {
+          "package_name": "com.bay.vidufirebaseubutu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570643750098-8udb3gg8qu85edv097q3q99p7bspjtjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bay.vidufirebaseubutu",
+            "certificate_hash": "f1f13a4bdbc34814daff2fdab51197b5855ca9d6"
+          }
+        },
+        {
+          "client_id": "570643750098-3i5tkstcdt4k4on3921rdpmufgept0mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOR2b4kk2OTQIonqgJ0NgwUk2mrcmd2PM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570643750098-3i5tkstcdt4k4on3921rdpmufgept0mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570643750098:android:4af95a3d5386d9a7",
+        "android_client_info": {
+          "package_name": "com.myapp.vidufirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570643750098-crtl7btvletgj10aukkoqc69oih1hd1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.vidufirebase",
+            "certificate_hash": "e5e996f727dbac63a1ab9375d29172de0ce172cd"
+          }
+        },
+        {
+          "client_id": "570643750098-3i5tkstcdt4k4on3921rdpmufgept0mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOR2b4kk2OTQIonqgJ0NgwUk2mrcmd2PM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570643750098-3i5tkstcdt4k4on3921rdpmufgept0mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
